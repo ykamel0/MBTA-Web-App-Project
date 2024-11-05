@@ -1,8 +1,8 @@
-# Web App Developement Project - MBTA Helper
+# MBTA Web App Project - Instructions
 
 ## Introduction
 
-Welcome to the MBTA Helper project!
+Welcome to the MBTA Web App project!
 
 You may have used multiple Python libraries to access information on the Internet. For example, `praw` can get Reddit data by interacting with Reddit's application programming interface (API). In this project, you will access web APIs directly and begin to write your own package/program to connect with new data sources. Then you will build a simple website containing some webpages with a small amount of dynamic content using the `Flask` web framework. This website will help people find a nearby MBTA station and other information by providing an address or point of interest. As part of the project, you are encouraged to use AI tools to explore APIs and Python libraries that have not been covered in classes yet.
 
@@ -270,10 +270,10 @@ After you finish the project, Please write a short document for reflection.
 - Start by listing all team members' names at the top of the document.
 - Make the `README.md` file clear and concise. There is no need to use fancy words or ChatGPT.
 
-### 3. Turning in Assignment
+### 3. Turning in Project
 
-1. Push your completed code and updated `README.md` to the forked GitHub repository (depending on which team member's repository is being used to work on the project).
-2. Submit project's GitHub repository URL to Canvas. In the comment area on Canvas, specify names of all team members. **Note: Everyone in the team needs to submit on Canvas and add comment.**
+1. Push your completed code and updated `README.md` to your GitHub repository (the repository where your team has been working).
+2. Submit the project's GitHub repository URL to Canvas. In the Canvas comment section, include the names of all team members. **Note: Each team member must submit on Canvas and add this comment.**
 
 ---
 *updated:* *11/05/2024*
