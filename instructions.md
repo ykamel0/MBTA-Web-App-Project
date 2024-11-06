@@ -213,7 +213,7 @@ To complete this project, the official [Flask documentation](https://flask.palle
   
 - **But HTML is so ugly!** HTML alone may not look visually appealing, which is why we use CSS (Cascading Style Sheets) to add some extra flair and style to our HTML. You can change pretty much anything about HTML - colors, shapes, sizes, placement, etc. - with CSS rules. It's also pretty simple to write. Check out resources such as [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps) and/or [W3Schools](https://www.w3schools.com/css/css_intro.asp) to learn more about CSS.
   
-- **What about making my website more dynamic?** While this class may focus on Python, you can venture out a little and use `Bootstrap`, `jQuery`, or `Tailwind` to add dynamic elements to your web app. They might sound scary, but you use it in a way similar to adding/linking CSS styling to your HTML. You can also write vanilla JavaScript (which isn't too difficult), which allows you to create more beautiful, responsive, and dynamic content for your web app.
+- **What about making my website more dynamic?** While this class may focus on Python, you can venture out a little and use [`Bootstrap`](https://getbootstrap.com/), [`Tailwind CSS`](https://tailwindcss.com/) or [`shadcn/ui`](https://ui.shadcn.com/) to add dynamic elements to your web app. They might sound scary, but you use it in a way similar to adding/linking CSS styling to your HTML. You can also write vanilla JavaScript (which isn't too difficult), which allows you to create more beautiful, responsive, and dynamic content for your web app.
   
 - **Interested in an alternative to Flask?** Learn more about [Django](https://www.djangoproject.com/). They don't have many major differences other than some small quirks in conventions and style.
 
@@ -225,7 +225,7 @@ To complete this project, the official [Flask documentation](https://flask.palle
 
 After completing the required parts of this project, you can spice it up by adding additional features. Some suggestions:
 
-- Refer to [7. Making it Cooler (Optional)](#7-making-it-cooler-optional) section in Part 1 and [6. Going Further (Optional)](#6-going-further-optional) section in Part 2 for more ideas.
+- Refer to [6. Making it Cooler (Optional)](#6-making-it-cooler-optional) section in Part 1 and [6. Going Further (Optional)](#6-going-further-optional) section in Part 2 for more ideas.
 - Display weather information - Add real-time weather data for an extra interactive touch! Note: While the weather might be similar across locations (since we're focusing on the Greater Boston area), this feature adds a layer of engagement.  Say "hello" to our old friend, [OpenWeatherMap API](https://openweathermap.org/api).
 - Any interesting events in the nearby area? Try [Ticketmaster API](https://developer.ticketmaster.com/products-and-docs/apis/getting-started/) to find out concerts, sport events information.
 - Yes, you guessed it! - More APIs. Some suggestions:
@@ -271,7 +271,7 @@ After you finish the project, Please write a short document for reflection.
 
 ### 3. Turning in Project
 
-1. Push your completed code and updated `README.md` to your GitHub repository (the repository where your team has been working).
+1. Push your completed code and updated `README.md` to your GitHub repository (the repository where your team has been working on).
 2. Submit the project's GitHub repository URL to Canvas. In the Canvas comment section, include the names of all team members. **Note: Each team member must submit on Canvas and add this comment.**
 
 ---
