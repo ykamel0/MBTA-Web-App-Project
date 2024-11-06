@@ -48,7 +48,7 @@ APIs allow you make requests using specifically constructed URLs and return data
 
     You will need to request a unique user key/access token to be sent with each request since web services generally limit the number of requests you can make. In order to get a key/token, you will need to agree to the API's terms, which restrict how you can use the service. If you are uncomfortable with any of the terms, please contact your professor.
 
-    Make sure to keep your key/token secret! If someone else gets a hold of it, they can use it to make requests on your behalf, potentially using up your request limit or even getting you banned from the service. You can store your key in a separate file (e.g. `.env`) and add it to your `.gitignore` file to prevent it from being uploaded to GitHub.
+    Make sure to keep your key/token secret! If someone else gets a hold of it, they can use it to make requests on your behalf, potentially using up your request limit or even getting you banned from the service. You should store your key in a separate file (e.g. `.env`) and add it to your `.gitignore` file to prevent it from being uploaded to GitHub.
 
 3. **Test your application and launch to users:**
 
